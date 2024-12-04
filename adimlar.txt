@@ -1,0 +1,128 @@
+
+----------1.Adim----------
+yusuf'ın Kartları(Dayanıklılık -- Kullanım):
+Ucak1 -- 20-0
+Siha1 -- 15-0
+Obus1 -- 20-0
+Obus2 -- 20-0
+Firkateyn1 -- 25-0
+Sida1 -- 15-0
+
+Bilgisayar'ın Kartları(Dayanıklılık -- Kullanım):
+Obus3 -- 20-0
+Obus4 -- 20-0
+Obus5 -- 20-0
+Firkateyn2 -- 25-0
+Ucak2 -- 20-0
+Firkateyn3 -- 25-0
+
+
+Oyuncu(Vuracağı Hasar) -- Bilgisayar(Vuracağı Hasar)
+1.Eslesme:    Siha1(10)  <-->  Ucak2(10)
+2.Eslesme:    Obus1(10)  <-->  Obus4(10)
+3.Eslesme:    Obus2(10)  <-->  Obus3(10)
+
+Oyuncu seviye: 22
+Bilgisayar seviye: 0
+
+Dagitimdaki Kartlarin:
+Ucak1
+Obus1
+Firkateyn1
+Siha1
+Sida1
+KFS1
+
+----------2.Adim----------
+yusuf'ın Kartları(Dayanıklılık -- Kullanım):
+Ucak1 -- 20-0
+Siha1 -- 5-1
+Obus1 -- 10-1
+Obus2 -- 10-1
+Firkateyn1 -- 25-0
+Sida1 -- 15-0
+Ucak3 -- 20-0
+
+Bilgisayar'ın Kartları(Dayanıklılık -- Kullanım):
+Obus3 -- 10-1
+Obus4 -- 10-1
+Obus5 -- 20-0
+Firkateyn2 -- 25-0
+Ucak2 -- 10-1
+Firkateyn3 -- 25-0
+Obus6 -- 20-0
+
+
+Oyuncu(Vuracağı Hasar) -- Bilgisayar(Vuracağı Hasar)
+1.Eslesme:    Ucak3(10)  <-->  Firkateyn2(15)
+2.Eslesme:    Sida1(20)  <-->  Obus5(15)
+3.Eslesme:    Firkateyn1(10)  <-->  Obus6(15)
+
+Oyuncu seviye: 32
+Bilgisayar seviye: 20
+
+Dagitimdaki Kartlarin:
+Ucak1
+Obus1
+Firkateyn1
+Siha1
+Sida1
+KFS1
+
+----------3.Adim----------
+yusuf'ın Kartları(Dayanıklılık -- Kullanım):
+Ucak1 -- 20-0
+Siha1 -- 5-1
+Obus1 -- 10-1
+Obus2 -- 10-1
+Firkateyn1 -- 10-1
+Ucak3 -- 5-1
+Firkateyn4 -- 25-0
+
+Bilgisayar'ın Kartları(Dayanıklılık -- Kullanım):
+Obus3 -- 10-1
+Obus4 -- 10-1
+Firkateyn2 -- 15-1
+Ucak2 -- 10-1
+Firkateyn3 -- 25-0
+Obus6 -- 10-1
+Obus7 -- 20-0
+
+
+Oyuncu(Vuracağı Hasar) -- Bilgisayar(Vuracağı Hasar)
+1.Eslesme:    Firkateyn4(10)  <-->  Obus7(15)
+2.Eslesme:    Ucak1(10)  <-->  Firkateyn3(15)
+3.Eslesme:    Siha1(10)  <-->  Ucak2(10)
+
+Oyuncu seviye: 42
+Bilgisayar seviye: 40
+
+Dagitimdaki Kartlarin:
+Ucak1
+Obus1
+Firkateyn1
+Siha1
+Sida1
+KFS1
+
+
+yusuf'ın Kartları(Dayanıklılık -- Kullanım):
+Ucak1 -- 5-1
+Obus1 -- 10-1
+Obus2 -- 10-1
+Firkateyn1 -- 10-1
+Ucak3 -- 5-1
+Firkateyn4 -- 10-1
+Ucak4 -- 20-0
+
+Bilgisayar'ın Kartları(Dayanıklılık -- Kullanım):
+Obus3 -- 10-1
+Obus4 -- 10-1
+Firkateyn2 -- 15-1
+Firkateyn3 -- 15-1
+Obus6 -- 10-1
+Obus7 -- 10-1
+Obus8 -- 20-0
+
+
+Oyuncu kazandı , bilgisayar kaybetti
